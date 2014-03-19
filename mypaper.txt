@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 
-own title: paper on birds
-Author: Marko T.
+Title: about noctuidae
+Author: Marko T., HAnnu, S.
+>>>>>>> paperJon
